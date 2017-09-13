@@ -10,18 +10,18 @@ Projects made for subjects in my Bachelor's Degree in Computer Engineering at IS
 
 ### 2nd Year
 * [FBD - Fundamentos de Bases de Dados / Database Fundamentals (SQL/PHP)](2nd_Year/FBD)
-* [SO - Sistemas Operativos / Operating Systems (C)](2nd_Year/SO)
+* [SO - Sistemas Operativos / Operating Systems (C/Shell)](2nd_Year/SO)
 * [PCD - Programação Concorrente e Distribuida / Concurrent and Parallel Programming (Java)](2nd_Year/PCD)
-* [CDSI - Concepção e Desenvolvimento de Sistemas de Informação / Informatin System Design and Development (Java)](2nd_Year/CDSI)
-* [MICRO - Microprocessadoores / Microprocessors (C)](2nd_Year/MICRO)
+* [CDSI - Concepção e Desenvolvimento de Sistemas de Informação / Informatin System Design and Development (UML/(PHP))](2nd_Year/CDSI)
+* [MICRO - Microprocessadoores / Microprocessors (Mips)](2nd_Year/MICRO)
 * [RDI - Redes Digitais I - Fundamentos / Digital Networks I - Fundamentals (Java)](2nd_Year/RDI)
-* [PR - Programação em Rede / Network Programming (C)](2nd_Year/PR)
+* [PR - Programação em Rede / Network Programming (HTML/PHP/Django/CSS)](2nd_Year/PR)
 
 
 ### 3rd Year
 
-* [PI - Processamento de Informação / Information Processing (Java)](3rd_Year/PI)
-* [ESI - Engenharia de Software I / Software Engineering I (Java)](3rd_Year/ESI)
+* [PI - Processamento de Informação / Information Processing ((Math))](3rd_Year/PI)
+* [ESI - Engenharia de Software I / Software Engineering I (Unity-(C#/JavaScript))](3rd_Year/ESI)
 * [IA - Inteligência Artificial / Artificial Intelligence (Java)](3rd_Year/IA)
 * [MCG - Computação Gráfica e  Multimedia / Multimedia and Computer Graphics (JavaScript)](3rd_Year/MCG)
 * [RDII - Redes Digitais II - Sistemas, Aplicações e Serviços / Digital Networks II - Systems Aplications and Services (Java)](2nd_Year/RDII)
