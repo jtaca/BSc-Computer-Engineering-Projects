@@ -15,7 +15,7 @@ Projects made for subjects in my Bachelor's Degree in Computer Engineering at IS
 * [CDSI - Concepção e Desenvolvimento de Sistemas de Informação / Informatin System Design and Development (UML/(PHP))](2nd_Year/CDSI)
 * [MICRO - Microprocessadoores / Microprocessors (Mips)](2nd_Year/MICRO)
 * [RDI - Redes Digitais I - Fundamentos / Digital Networks I - Fundamentals (Java)](2nd_Year/RDI)
-* [PR - Programação em Rede / Network Programming (HTML/PHP/Django/CSS)](2nd_Year/PR)
+* [PR - Programação em Rede / Network Programming (Python/HTML/PHP/Django/CSS)](2nd_Year/PR)
 
 
 ### 3rd Year
