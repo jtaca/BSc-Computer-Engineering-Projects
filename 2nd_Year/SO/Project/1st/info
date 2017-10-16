@@ -1,0 +1,36 @@
+Enunciado:
+
+Parte I - Shell Script (bash) Data de entrega: 21 de outubro de 2017
+Nesta fase do trabalho será criado um conjunto de scripts para gestão do sistema.
+1) cria_utilizador.sh
+Permite acrescentar um utilizador ao ficheiro utilizadores.txt. O script deve começar por pedir o número de aluno e validar a sua existência através do ficheiro /etc/passwd do servidor tigre.iul.lab, pois só aceita alunos aí registados. Depois de verificar que o aluno existe, deve pedir ou calcular a restante informação e registar o utilizador no ficheiro utili- zadores.txt usando a sintaxe definida anteriormente. Deve também verificar se o utilizador já existe no ficheiro utilizadores.txt por forma a impedir a criação de duplicados.
+A informação sobre o nickname, password, turma e saldo deve ser pedida ao utilizador. A restante informação é calculada com base na infromação existente da seguinte forma: o ID é calculado somando 1000000 ao número do aluno; o nome é diretamente extraído do ficheiro /etc/passwd e o e-mail deverá ser criado automaticamente tendo por base o número do aluno e acrescentando “@iscte-iul.pt”. Exemplo:
+ghost;rider;1088888;Pedro Mota;a88888@iscte-iul.pt;IB1;25 maria;itsme;1088889;Maria Mercedes;a88889@iscte-iul.pt;EI1;40
+Nota: No caso de não estar a utilizar o tigre, pode simplesmente copiar o ficheiro /etc/passwd do servidor tigre.iul.lab para a sua diretoria e trabalhar com essa versão do ficheiro.
+2) adiciona_saldo.sh
+Este script recebe dois parâmetros, o nickname do utilizador e o saldo a acrescentar. O script deve validar os seus argumentos e verificar se o utilizador existe no ficheiro uti- lizadores.txt. Caso exista, deve acrescentar o saldo passado como argumento ao saldo existente. Caso não exista, deve retornar uma mensagem de erro.
+3) cria_viatura.sh
+Este script é executado sempre que é adicionada uma nova viatura ao parque ciclo-motor do campus. O script pede a seguinte informação acerca da viatura e acrescenta uma nova linha ao ficheiro viaturas.txt: nome (nome de um animal, identificador único), cor, marca, modelo, tipo (e.g., elétrica, manual), no de mudanças, e matrícula. Deve verificar se o nome já existe no ficheiro, por forma a impedir a criação de duplicados.
+5
+4) stats.sh
+Este script é executado pelo administrador do sistema para obter informações sobre o sistema. Nomeadamente, deve devolver a seguinte informação:
+• Número de utilizadores inscritos na plataforma
+• Número de viaturas na plataforma, agrupadas por cor.
+• Valor total (soma) dos saldos dos utilizadores.
+• Top 5 utilizadores: lista dos 5 utilizadores com mais saldo
+• Utilizadores por curso: estatística com o número de condutores por curso. Por exem- plo: IGE: 5, ETI: 12, LEI: 2. Para tal, deve saber interpretar as turmas. Pode simplifi- car o problema considerando apenas três cursos: IGE, ETI, LEI.
+5) backup.sh
+Para evitar corrupção no sistema, este script deverá criar diariamente automaticamente um ficheiro escondido com um backup comprimido (tar, gz ou zip) dos ficheiros utilizado- res.txt e viaturas.txt. Note que para ser escondido, basta que o nome do ficheiro comece pelo caracter “.”. O nome do backup deverá ainda incluir a data e hora do mesmo, no formato aaaa-mm-dd-hh-mm. Exemplo: .ecooliul-2017-10-12-05-30.tgz. Para além do bac- kup diário automático, novos backups podem ser despoletados manualmente invocando o próprio script.
+Para que a execução do script seja diária, deve adicionar uma entrada ao “cron”. Pode encontrar informações de como o fazer na sebenta da UC.
+6) menu.sh
+Este script agrega os restantes, mostrando um menu com as opções:
+     Menu de administração
+       1. Cria utilizador
+       2. Adiciona saldo
+       3. Cria viatura
+       4. Mostra utilizadores
+       5. Mostra estatísticas
+       6. Backup
+       0. Sair
+Cada uma das opções anteriores, invoca o respectivo script descrito anteriormente. Na opção 2, as informações deverão ser pedidas antes de executar o script correspondente, por forma a que as possa passar como argumentos do script. Note que a opção 4 deve ser implementada no próprio menu.sh.
+A opção 0 permite sair do script. Até escolher esta opção, o menu encontra-se em ciclo, permitindo as várias operações múltiplas vezes.
