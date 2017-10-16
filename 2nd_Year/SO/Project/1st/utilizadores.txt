@@ -1,0 +1,4 @@
+ghost;rider;1088888;Pedro Mota;a88888@iscte-iul.pt;IB1;25
+maria;itsme;1088889;Maria Mercedes;a88889@iscte-iul.pt;EI1;42
+user123;pass123;87812;Joao Costa;a77812@iscte-iul.pt;EI4;1
+gerevazioalturas;pass234;1078178;Alexandre Mendes;a78178@iscte-iul.pt;EI4;70
