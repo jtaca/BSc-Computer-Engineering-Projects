@@ -1,0 +1,6 @@
+Lampada l1 30
+LampadaDeCor l2 100 RED
+LampadaDeCorVariavel l3 100
+LampadaDeCores l4 50 RED GREEN BLUE
+
+
