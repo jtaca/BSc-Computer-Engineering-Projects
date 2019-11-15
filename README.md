@@ -1,5 +1,6 @@
 # Bachelor of Science in Computer Engineering - ISCTE-IUL Programming Projects
 Projects made for subjects in my Bachelor's Degree in Computer Engineering at ISCTE-IUL.
+[Link to university website](https://www.iscte-iul.pt/course/3/bachelor-bsc-in-computer-engineering)
 
 ### 1st Year
 * [IP - Introdução à Programação	 / Introduction to Programming (Java)](1st_Year/IP)
