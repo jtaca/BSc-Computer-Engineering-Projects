@@ -1,10 +1,12 @@
-# Bachelor of Science in Computer Engineering - ISCTE-IUL Programming Projects
+# Bachelor of Science in Computer Engineering - ISCTE-IUL Programming Projects :mortar_board:
 Projects made for subjects in my Bachelor's Degree in Computer Engineering at ISCTE-IUL.
 [Link to university website](https://www.iscte-iul.pt/course/3/bachelor-bsc-in-computer-engineering)
 
+:construction: means it is not yet available
+
 ### 1st Year
 * [IP - Introdução à Programação	 / Introduction to Programming (Java)](1st_Year/IP)
-* [FAC - Fundamentos de Arquitectura de Computadores / Fundamentals of Computer Architecture (Circuit Design)](1st_Year/FAC)
+* :construction: [FAC - Fundamentos de Arquitectura de Computadores / Fundamentals of Computer Architecture (Circuit Design)](1st_Year/FAC)
 * [POO - Programação Orientada a Objetos / Object Oriented Programming (Java)](1st_Year/POO)
 * [AED - Algoritmos e Estruturas de Dados / Algorithms and Data Structures (Java)](1st_Year/AED)
 
