@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Bateria" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Bateria.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="389" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="pt.iscte.dcti.poo.sokoban.starter.SokobanGame" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/SokobanGame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1224" y="-101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Caixa" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Caixa.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1608" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Buraco" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Buraco.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="785" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Main" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="708" y="-101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Parede" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Parede.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="587" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="pt.iscte.dcti.poo.sokoban.starter.ObjectiveObject" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/ObjectiveObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1806" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="pt.iscte.dcti.poo.sokoban.starter.AbstractObject" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/AbstractObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1224" y="4"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Alvo" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Alvo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1806" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Resultado" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Resultado.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1490" y="-101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="pt.iscte.dcti.poo.sokoban.starter.ActiveObject" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/ActiveObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1389" y="299"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <interface id="12" language="java" name="pt.iscte.dcti.poo.sokoban.starter.UsableObject" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/UsableObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="389" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <interface id="13" language="java" name="pt.iscte.dcti.poo.sokoban.starter.MakeDisapear" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/MakeDisapear.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="785" y="204"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Player" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1181" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="pt.iscte.dcti.poo.sokoban.starter.Chao" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/Chao.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="983" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="pt.iscte.dcti.poo.sokoban.starter.FabricaDeObjecto" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/FabricaDeObjecto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1747" y="-101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="pt.iscte.dcti.poo.sokoban.starter.BigStone" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/BigStone.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1389" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="pt.iscte.dcti.poo.sokoban.starter.SmallStone" 
+    project="Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9" 
+    file="/Sokoban_78178_AlexandreMendes_77812_JoaoCosta V9/src/pt/iscte/dcti/poo/sokoban/starter/SmallStone.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="158" x="1587" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <realization id="19">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="20">    
+    <bendpoint x="1497" y="204"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="21">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="22" name="objects"/>      
+      <multiplicity id="23" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="24">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="26">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="27" name="INSTANCE"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="31">    
+    <bendpoint x="1398" y="204"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <association id="32">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="33" name="caixa"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="38">    
+    <bendpoint x="1294" y="204"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="41">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="42" name="INSTANCE"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="44">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <generalization id="46">    
+    <bendpoint x="1775" y="99"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
