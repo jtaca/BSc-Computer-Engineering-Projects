@@ -1,0 +1,8 @@
+Este trabalho foi realizador por:
+
+Alexandre Mendes N 78178
+
+Joao Costa N 77812
+
+Cadeira de Programacao Concorrente e distribuida.
+Professor: Luis Nunes

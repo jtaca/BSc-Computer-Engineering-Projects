@@ -1,0 +1,1 @@
+java -jar Googa-lhe_Server.jar resources
