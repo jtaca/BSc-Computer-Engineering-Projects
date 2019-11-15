@@ -1,0 +1,7 @@
+cebola;laranja;preta;corderosa;manual;9;77-CD-11
+laranja;laranja;Honda;XRS;electrica;6;99-TT-21
+rocha;castanha;Pejo;XRT;manual;6;YE-49-OL
+as;branco;bmw;m3;manual;7;11-aa-11
+here;preto;;;manual;10;78-AB-21
+qwe;preto;;;manual;12;asd
+batata;amarela;oliveira;RX;electrica;10;

@@ -1,0 +1,15 @@
+﻿Relatório da primeira entrega (Cadeira de Sistemas Operativos) (21/10/2017)
+A realização desta entrega foi feita de modo equilibrado. Cada um dos 2 elementos fez 3 programas.
+
+No ficheiro cria_utilizador.sh fazemos um touch no ficheiro "utilizadores.txt" para ter a certeza que ele existe, e se não existir, cria um novo sem conteúdo. De seguida tomámos a liberdade de verificar se os usernames eram repetidos e recusa-los caso fossem, tendo estes que ter tamanho superior ou igual a 2 caracteres, por outro lado também verificamos se o saldo é um valor numérico positivo. Os inputs de string vazia passam a ter o valor de 0 e por ultimo, na turma aceita-se somente 4 caracteres. 
+
+No ficheiro adiciona_saldo.sh temos um encadeamento de 4 verificações, sendo a primeira para os argumentos passados, e para a existência do ficheiro "utilizadores.txt". A segunda verificação trata-se de verificar a existência do utilizador passado. A terceira verifica se o input não contem caracteres não numéricos, também bloqueando desta maneira os números negativos. Por ultimo, na quarta verificação verificamos se não estamos a somar 0 minutos.
+
+No ficheiro cria_viatura.sh começamos por fazer um touch no ficheiro auxiliar "viaturas.txt" para que se a existência do mesmo não for verdadeira, que passe a ser. De seguida verificamos se o Nome e Cor possuem pelo menos 2 caracteres e no caso do nome se esse mesmo nome não está a ser usado já na nossa lista. De seguida, verificamos se o tipo de veiculo era manual ou elétrico, sendo esta lista pré-definida por um array presente no inicio do programa, onde podem ser inseridos outros tipos se necessário. Por último verificamos que o número de mudanças é mesmo um número com menos de 2 algarismos. Em relação à Marca, Modelo, e matricula, deixamos sem restrições, pois podem nem existir. 
+
+No ficheiro stats.sh começamos por fazer um touch nos ficheiros que vamos ler, para ter a certeza que estes existem, mesmo que estejam vazios. Para saber o número de veículos de cada cor, usamos a estrutura "numero são de cor", e para somar os saldos, utilizamos um awk em que fizemos um END para escrever o output no final de calcular o mesmo. Os 5 utilizadores com mais tempo, estão representados da esquerda para a direita de forma decrescente. Para descobrir as turmas de cada curso, temos dois arrays um com os cursos e outro com as suas iniciais utilizadas em turma, tendo estas que ter índices idênticos para se identificarem como pares (curso, turma).
+
+No ficheiro backup.sh optámos por comprimir os ficheiros "utilizadores.txt" e "viaturas.txt" com a extensão .tgz.  Na segunda linha vai ter um cd “diretório” mude para o do ficheiro.
+Também adicionamos à lista de execução do cron o comando: 0 0 * * * bash /home/a77812/Proj/backup.sh, para ser executado o backup.sh todos os dias à meia noite. 
+
+No ficheiro menu.sh a estrutura do programa é baseada num case dentro de um while de modo a diminuir a extensão do código.
