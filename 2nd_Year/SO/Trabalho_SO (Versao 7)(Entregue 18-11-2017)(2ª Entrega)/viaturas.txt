@@ -1,0 +1,7 @@
+galinha;castanha;Toyota;X5;electrica;10;AD-32-PT
+avestrus;laranja;Honda;XRS;electrica;6;99-TT-21
+ovelha;castanha;Pejo;XRT;manual;6;YE-49-OL
+vaca;branco;BMW;m3;manual;7;11-aa-11
+porco;preto;Honda;CBR125;manual;10;78-AB-21
+peru;preto;Toyota;C;manual;12;IK-40-LP
+cao;amarelo;Noname;RX;electrica;10;TO-21-CS

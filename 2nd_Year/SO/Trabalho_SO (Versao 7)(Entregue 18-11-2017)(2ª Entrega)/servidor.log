@@ -1,0 +1,15 @@
+2017-11-16 16:58:04 O servidor comecou a correr. PID = 14463
+2017-11-16 16:58:04 O PID do processo foi escrito no servidor.pid
+2017-11-16 16:58:04 O Fiscal foi criado com sucesso.
+2017-11-16 16:58:06 O Fiscal terminou sua actividade.
+2017-11-16 16:58:06 O servidor.pid foi removido
+2017-11-16 16:58:06 O servidor terminou sua atividade.
+----------------------------------------------------------
+2017-11-16 16:58:34 O servidor comecou a correr. PID = 14516
+2017-11-16 16:58:34 O PID do processo foi escrito no servidor.pid
+2017-11-16 16:58:34 O Fiscal foi criado com sucesso.
+2017-11-16 16:59:34 Fiscal vai verificar os dados.
+2017-11-16 16:59:38 O Fiscal terminou sua actividade.
+2017-11-16 16:59:38 O servidor.pid foi removido
+2017-11-16 16:59:38 O servidor terminou sua atividade.
+----------------------------------------------------------
